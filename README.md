@@ -7,7 +7,8 @@
 <!-- Provide a short description explaining the what, why, and how of your project.
 What was your motivation? Why did you build this project? What problem does it solve? What did you learn? -->
 
--
+- In this project I created a Budgeting Tracker that is a PWA using IndexDB, Manifest, Service worker and Cache Storage.
+- This project gives a user who wants to tracker their spending on the go without the need of internet and when the connect back online their info is stored.
 
 ## Table of Contents
 
