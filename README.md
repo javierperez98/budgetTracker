@@ -43,6 +43,8 @@ npm start
 
 <!-- Provide instructions and examples for use. Include screenshots as needed. -->
 
+You are brought to the homepage which is also where you can track your budget. You can add or deduct from your budget by adding or subtracting funds. Your total amount will be displayed at the top and a line chart is displayed for a visual of your funds by day. You have the ablitiy to use the app offline and download the app. It is a full on PWA.
+
 ## Credits
 
 <!-- List your collaborators, if any, with links to their GitHub profiles. Links to websites or resources. -->
