@@ -1,0 +1,9 @@
+{
+	"name": "Budget Tracker App",
+	"short_name": "Budget App",
+	"start_url": ".",
+	"background_color": "#cadbda",
+	"theme_color": "#cadbda",
+	"display": "standalone",
+	"icons": []
+}
