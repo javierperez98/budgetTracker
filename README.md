@@ -1,4 +1,4 @@
-# budgetTrackers
+# Budget Tracker App
 
 ![MIT](https://img.shields.io/github/license/microsoft/vscode)
 
