@@ -1,4 +1,12 @@
-const FILES_TO_CACHE = [];
+const FILES_TO_CACHE = [
+	"/icons/icon-192x192.png",
+	"/icons/icon-512x512.png",
+	"/index.html",
+	"/manifest.json",
+	"/styles.css",
+	"/index.js",
+	"/db.js",
+];
 const CACHE_NAME = "v2";
 const DATA_CACHE_NAME = "v1";
 
